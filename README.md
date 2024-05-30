@@ -1,1 +1,16 @@
-# vs-code-settings
+# EXTENSIONS
+ - GrapeCity.gc-excelviewer
+ - mechatroner.rainbow-csv
+ - QuanLi.focus
+ - Codely.codely-theme
+ - usernamehw.errorlens
+ - miguelsolorio.fluent-icons
+ - miguelsolorio.symbols
+ - blakeh.jump-to-test
+ - dbaeumer.vscode-eslint
+ - Orta.vscode-jest
+ - eamodio.gitlens
+ - vivaxy.vscode-conventional-commits
+ - hansu.git-graph-2
+ - ms-azuretools.vscode-docker
+ - ms-vsliveshare.vsliveshare
